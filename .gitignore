@@ -1,0 +1,12 @@
+./api-project/.env
+./api-project/public/bundles/
+./api-project/var/
+./api-project/vendor/
+./api-project/public/build/
+
+./api-project/.phpunit
+./api-project/phpunit.xml
+
+.idea/*
+.env
+docker-compose.yml
